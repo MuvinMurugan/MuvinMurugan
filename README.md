@@ -6,7 +6,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-  - 🔭 I’m currently working on Software Engineer at TCS
+  - 🔭 I’m currently working as a Software Engineer at TCS
   - 🌱 I’m currently learning Python and Web Development
 
 
