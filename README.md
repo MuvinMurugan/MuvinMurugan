@@ -19,7 +19,7 @@ Happy Coding! 😊
  
 - 🌐 &nbsp; Python | C | JavaScript | HTML | CSS | Flask
 - 🔧 &nbsp; Visual Studio code| Git
-- 🖥 &nbsp; Machine Learning | Data Science | Ethical Hacking 
+- 🖥 &nbsp; Machine Learning | Data Science | Ethical Hacking | Web Development
 
 
 <br>
