@@ -28,8 +28,6 @@ Happy Coding! 😊
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuvinMurugan&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/MuvinMurugan/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MuvinMurugan&repo=github-readme-stats)](https://github.com/MuvinMurugan/github-readme-stats)
-
 <div align="center">
 
 
