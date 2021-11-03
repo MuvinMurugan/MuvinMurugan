@@ -7,7 +7,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
   - 🔭 I’m currently working as a Software Engineer at TCS
-  - 🌱 I’m currently learning Python and Web Development
+  - 🌱 I’m doing some stuff's on Python and Web Development
 
 
 You have finally discovered my Github profile. <br>
@@ -17,7 +17,7 @@ Happy Coding! 😊
 
 <h3>🛠 Tech Stack</h3>
  
-- 🌐 &nbsp; Python | C | JavaScript | HTML | CSS | Flask
+- 🌐 &nbsp; Python | C | JavaScript | HTML | CSS 
 - 🔧 &nbsp; Visual Studio code| Git
 - 🖥 &nbsp; Machine Learning | Data Science | Ethical Hacking | Web Development
 
