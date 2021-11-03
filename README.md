@@ -40,7 +40,7 @@ Happy Coding! 😊
 
 </div>
 
-:heart: From [Muvin Murugan](https://github.com/Muvinm)
+:heart: From [Muvin Murugan](https://github.com/MuvinMurugan)
 
 <!--
 **Muvinm/muvinmurugan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
