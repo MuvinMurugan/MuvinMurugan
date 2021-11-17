@@ -34,7 +34,7 @@ Happy Coding! 😊
 
 <i>Follow me:</i><br>
 
-<a href="https://www.linkedin.com/in/muvin-m-89a575137/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/muvin-m/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://twitter.com/muvin_murugan?s=09" target="_blank"><img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fmuvin_murugan%3Fs%3D09" alt="Instagram"></a>
 
 
